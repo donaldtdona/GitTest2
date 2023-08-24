@@ -1,0 +1,25 @@
+commit 41541d0b1170b0125484058fff56d60209c9af15
+Author: donaldtdona <58192273+donaldtdona@users.noreply.github.com>
+Date:   Thu Aug 24 14:24:32 2023 +0200
+
+    Update README.md
+    
+    first, commit in this
+
+commit 66498a5b3bc823d9abe3c441463b61b9d62745d6
+Author: Donald Nzimande <donaldtdona119@gmail.com>
+Date:   Thu Aug 24 13:05:04 2023 +0200
+
+    my first commit from local machine
+
+commit 1c8eb4ab8dfd91c6a479adfbbaea796e0c8a7462
+Author: donaldtdona <58192273+donaldtdona@users.noreply.github.com>
+Date:   Wed Aug 23 10:08:04 2023 +0200
+
+    Add files via upload
+
+commit c30373426f7f02993b000939e72a267397aded63
+Author: donaldtdona <58192273+donaldtdona@users.noreply.github.com>
+Date:   Wed Aug 23 10:02:49 2023 +0200
+
+    Initial commit
