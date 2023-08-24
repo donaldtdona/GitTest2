@@ -1,2 +1,4 @@
 this is my first line
 the second time typing something in this file.
+
+adding new line right after i added my files into new directory.
